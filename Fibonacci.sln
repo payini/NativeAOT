@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32414.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{8F1060FF-D219-4B60-8CEF-3E7EFF16F4B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciAOT", "..\FibonacciAOT\FibonacciAOT\FibonacciAOT.csproj", "{1AF34C24-AE69-4F1C-8AE9-4D0CB3984F29}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciAOT", "FibonacciAOT\FibonacciAOT.csproj", "{1AF34C24-AE69-4F1C-8AE9-4D0CB3984F29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
