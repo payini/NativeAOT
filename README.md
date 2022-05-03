@@ -268,10 +268,10 @@ Execution time did benefit for about 50 milliseconds running 1000 sequences, and
 
 ##### Other Findings
 
-After doing some digging around, I founds some useful information.
+After doing some digging around, I found some useful information.
 
 > [!IMPORTANT]
-> The reason why the Desktop development with C++ workload is a prerequisite, is because of the Link process.
+> The reason why the Desktop development with C++ workload is a prerequisite, is because of the Link process,
 
 ![C++ workload](images/24a07953e2ee52e8533c1ecf316623a610f20c0dc1d9a14b916535328ec6f7ce.png)  
 
