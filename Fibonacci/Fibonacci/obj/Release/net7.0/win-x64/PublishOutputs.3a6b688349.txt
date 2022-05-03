@@ -1,0 +1,5 @@
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\bin\Release\net7.0\publish\win-x64\Fibonacci.exe
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\bin\Release\net7.0\publish\win-x64\Fibonacci.deps.json
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\bin\Release\net7.0\publish\win-x64\Fibonacci.runtimeconfig.json
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\bin\Release\net7.0\publish\win-x64\Fibonacci.pdb
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\bin\Release\net7.0\publish\win-x64\Fibonacci.dll

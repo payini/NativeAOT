@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VVS2y2U+JEpBESKsYBO5xxYNXgeymSjgYS3THXsygp3Zn6UDwY9PpTonKO+x2+orD00u8fFTzNcnbpWpoAO4Iw==",
+  "success": true,
+  "projectFilePath": "Y:\\Native AOT in .NET 7\\FibonacciAOT\\FibonacciAOT\\FibonacciAOT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\payin\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\7.0.0-preview.5.22252.6\\microsoft.dotnet.ilcompiler.7.0.0-preview.5.22252.6.nupkg.sha512",
+    "C:\\Users\\payin\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\7.0.0-preview.5.22252.6\\runtime.win-x64.microsoft.dotnet.ilcompiler.7.0.0-preview.5.22252.6.nupkg.sha512"
+  ],
+  "logs": []
+}

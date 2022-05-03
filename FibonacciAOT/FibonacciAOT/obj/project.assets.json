@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Microsoft.DotNet.ILCompiler/7.0.0-preview.5.22252.6": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.DotNet.ILCompiler.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.DotNet.ILCompiler/7.0.0-preview.5.22252.6": {
+      "sha512": "GO1+auJ1B15tIxI3lXPqnAucBdgpV8QH677XMT9N3fRKTz+wkEVACxJ3D4WQ7WbRhCMOhmy9R5DBok3aOVneXw==",
+      "type": "package",
+      "path": "microsoft.dotnet.ilcompiler/7.0.0-preview.5.22252.6",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        "Icon.png",
+        "LICENSE.TXT",
+        "Sdk/Sdk.targets",
+        "THIRD-PARTY-NOTICES.TXT",
+        "build/BuildFrameworkNativeObjects.proj",
+        "build/CoreRTNatVis.natvis",
+        "build/Microsoft.DotNet.ILCompiler.targets",
+        "build/Microsoft.NETCore.Native.Publish.targets",
+        "build/Microsoft.NETCore.Native.Unix.props",
+        "build/Microsoft.NETCore.Native.Windows.props",
+        "build/Microsoft.NETCore.Native.targets",
+        "build/WindowsAPIs.txt",
+        "build/findvcvarsall.bat",
+        "microsoft.dotnet.ilcompiler.7.0.0-preview.5.22252.6.nupkg.sha512",
+        "microsoft.dotnet.ilcompiler.nuspec",
+        "runtime.json",
+        "tools/netstandard/ILCompiler.Build.Tasks.deps.json",
+        "tools/netstandard/ILCompiler.Build.Tasks.dll",
+        "tools/netstandard/System.Collections.Immutable.dll",
+        "tools/netstandard/System.Reflection.Metadata.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Microsoft.DotNet.ILCompiler >= 7.0.0-preview.5.22252.6"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\payin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "Y:\\Native AOT in .NET 7\\FibonacciAOT\\FibonacciAOT\\FibonacciAOT.csproj",
+      "projectName": "FibonacciAOT",
+      "projectPath": "Y:\\Native AOT in .NET 7\\FibonacciAOT\\FibonacciAOT\\FibonacciAOT.csproj",
+      "packagesPath": "C:\\Users\\payin\\.nuget\\packages\\",
+      "outputPath": "Y:\\Native AOT in .NET 7\\FibonacciAOT\\FibonacciAOT\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\payin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet7/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Microsoft.DotNet.ILCompiler": {
+            "target": "Package",
+            "version": "[7.0.0-preview.5.22252.6, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.3.22179.4\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+﻿"obj\Release\net7.0\win-x64\native\FibonacciAOT.obj"
+/OUT:"bin\Release\net7.0\win-x64\native\FibonacciAOT.exe"
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.31.31103\ATLMFC\lib\x64"
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.31.31103\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\\lib\10.0.20348.0\\um\x64"
+"obj\Release\net7.0\win-x64\native\FibonacciAOT.res"
+"C:\Users\payin\.nuget\packages\runtime.win-x64.microsoft.dotnet.ilcompiler\7.0.0-preview.5.22252.6\sdk\bootstrapper.lib"
+"C:\Users\payin\.nuget\packages\runtime.win-x64.microsoft.dotnet.ilcompiler\7.0.0-preview.5.22252.6\sdk\Runtime.WorkstationGC.lib"
+"C:\Users\payin\.nuget\packages\runtime.win-x64.microsoft.dotnet.ilcompiler\7.0.0-preview.5.22252.6\sdk\System.IO.Compression.Native.Aot.lib"
+"advapi32.lib"
+"bcrypt.lib"
+"crypt32.lib"
+"iphlpapi.lib"
+"kernel32.lib"
+"mswsock.lib"
+"ncrypt.lib"
+"normaliz.lib"
+"ntdll.lib"
+"ole32.lib"
+"oleaut32.lib"
+"secur32.lib"
+"user32.lib"
+"version.lib"
+"ws2_32.lib"
+/NOLOGO /MANIFEST:NO
+/DEBUG
+/INCREMENTAL:NO
+/SUBSYSTEM:CONSOLE
+/ENTRY:wmainCRTStartup
+/NATVIS:"C:\Users\payin\.nuget\packages\microsoft.dotnet.ilcompiler\7.0.0-preview.5.22252.6\build\CoreRTNatVis.natvis"
+/OPT:REF
+/OPT:ICF

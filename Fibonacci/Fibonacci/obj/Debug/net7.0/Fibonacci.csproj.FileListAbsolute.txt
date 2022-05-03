@@ -1,0 +1,15 @@
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\bin\Debug\net7.0\Fibonacci.exe
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\bin\Debug\net7.0\Fibonacci.deps.json
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\bin\Debug\net7.0\Fibonacci.runtimeconfig.json
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\bin\Debug\net7.0\Fibonacci.dll
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\bin\Debug\net7.0\Fibonacci.pdb
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\obj\Debug\net7.0\Fibonacci.csproj.AssemblyReference.cache
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\obj\Debug\net7.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\obj\Debug\net7.0\Fibonacci.AssemblyInfoInputs.cache
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\obj\Debug\net7.0\Fibonacci.AssemblyInfo.cs
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\obj\Debug\net7.0\Fibonacci.csproj.CoreCompileInputs.cache
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\obj\Debug\net7.0\Fibonacci.dll
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\obj\Debug\net7.0\refint\Fibonacci.dll
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\obj\Debug\net7.0\Fibonacci.pdb
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\obj\Debug\net7.0\Fibonacci.genruntimeconfig.cache
+Y:\Native AOT in .NET 7\Fibonacci\Fibonacci\obj\Debug\net7.0\ref\Fibonacci.dll
